@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
+  "serverHost": omackerel.aternos.host",
   "serverPort": 12345,
-  "botUsername": "MyBot",
+  "botUsername": "xitbot",
   "botChunk": 1
 }
